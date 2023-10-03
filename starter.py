@@ -21,7 +21,6 @@ def handle_events():
     pass
 
 
-
 running = True
 x, y = TUK_WIDTH // 2, TUK_HEIGHT // 2
 frame = 0
@@ -37,7 +36,3 @@ while running:
     handle_events()
 
 close_canvas()
-
-
-
-
